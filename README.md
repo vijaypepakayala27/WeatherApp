@@ -69,7 +69,3 @@ A simple weather dashboard built with Flask that displays current weather condit
 - Add location-based weather data fetching using user input.
 - Show a 5-day forecast with more detailed hourly breakdowns.
 - Save user preferences for favorite locations.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
